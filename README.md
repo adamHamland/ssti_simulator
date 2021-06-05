@@ -2,11 +2,13 @@
 
 Learn all about a common Python Flask web vulnerability through this interactive simulator.
 
-# Getting Started
+# Getting Started  
 
-First install python3 and pip3 (Python's module manager) if you do not have them on your machine.
+The following isntructions are for setting up on a Debain/Ubuntu based Linux machine. For additional setup help, see the Flask documetnion. https://flask.palletsprojects.com/en/2.0.x/  
 
-The following isntructions are commands to run on a linux machine. For windows setup, see the Flask documetnion. https://flask.palletsprojects.com/en/2.0.x/
+First install python3 and pip3 (Python's module manager) if you do not have them on your machine:  
+`sudo apt install python3`  
+`sudp apt install python3-pip`
 
 Next install Flask:  
 `pip3 install flask`
