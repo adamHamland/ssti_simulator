@@ -4,7 +4,7 @@ Learn all about a common Python Flask web vulnerability through this interactive
 
 # Getting Started  
 
-The following isntructions are for setting up on a Debain/Ubuntu based Linux machine. For additional setup help, see the Flask documetnion. https://flask.palletsprojects.com/en/2.0.x/  
+The following isntructions are for setting up on a Debain/Ubuntu based Linux machine. For additional setup help, see the Flask documentation https://flask.palletsprojects.com/en/2.0.x/  
 
 First install python3 and pip3 (Python's module manager) if you do not have them on your machine:  
 `sudo apt install python3`  
