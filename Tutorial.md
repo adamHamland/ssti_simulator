@@ -12,3 +12,9 @@ https://pequalsnp-team.github.io/cheatsheet/flask-jinja2-ssti
 
 ## Python MRO explained
 https://www.educative.io/edpresso/what-is-mro-in-python
+
+## Python Flask Documentation
+https://flask.palletsprojects.com/en/1.1.x/quickstart/
+
+## Jinja2 Documentaion
+https://jinja.palletsprojects.com/en/3.0.x/
