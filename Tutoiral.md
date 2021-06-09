@@ -1,4 +1,4 @@
-# ssti_simulator 
+# ssti_simulator helpful links and example payload
 
 ## Remote Code Execution through SSTI `request.application`
 https://www.onsecurity.io/blog/server-side-template-injection-with-jinja2/
@@ -9,3 +9,6 @@ https://www.onsecurity.io/blog/server-side-template-injection-with-jinja2/
 
 ## SSTI Cheat Sheet
 https://pequalsnp-team.github.io/cheatsheet/flask-jinja2-ssti
+
+## Python MRO explained
+https://www.educative.io/edpresso/what-is-mro-in-python
